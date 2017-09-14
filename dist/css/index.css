@@ -1,0 +1,14 @@
+body{
+  font-family:'微软雅黑';
+
+}
+Elm { 
+  min-width:600px; 
+  width: auto !important; 
+  width: 100%; 
+  } 
+#allmap label{
+  width:55px;
+  max-width:55px;
+  text-align: center;
+}
